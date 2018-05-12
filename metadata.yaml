@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33925
     wikipedia: http://en.wikipedia.org/wiki/Ladislaus_Pyrker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29465#Rudolph-von-Habsburg.Ein-Heldengedicht-in-zw-lf-Ges-ngen.
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2009-07-20'
 gutenberg_type: Text
